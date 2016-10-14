@@ -1,0 +1,1 @@
+*/10 * * * * root /etc/cron.d/saltslack.sh | /usr/local/bin/slacktee.sh --config /etc/cron.d/slacktee.conf > /dev/null

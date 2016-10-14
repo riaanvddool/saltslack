@@ -1,0 +1,7 @@
+webhook_url="https://hooks.slack.com/services/............................."
+upload_token="............................"
+tmp_dir="/tmp"
+channel="salt"
+username="saltmaster"
+icon=":hourglass:"
+attachment="blue"
