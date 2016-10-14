@@ -1,7 +1,7 @@
 SaltSlack
 =========
 
-Configure a cron job to notify you via Slack.com when the status of your SaltStack.com minions change.
+Configure a cron job to notify you via Slack.com when your SaltStack.com minions come up or go down.
 
 Example
 -------
